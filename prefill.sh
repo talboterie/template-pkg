@@ -44,3 +44,5 @@ for i in "${keys[@]}"; do
         sed -i '' -a -e "s#{$i}#${!i}#g" "$file"
     done
 done
+
+[ -f "prefill.sh" ] && rm "prefill.sh"
