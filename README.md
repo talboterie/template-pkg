@@ -2,8 +2,8 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
+[![GitHub Workflow Status][ico-github]][link-github]
+[![Coverage Status][ico-codecov]][link-codecov]
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
@@ -69,14 +69,14 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/{vendor:kebab}/{package_name:kebab}.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/{vendor:kebab}/{package_name:kebab}/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/{vendor:kebab}/{package_name:kebab}.svg?style=flat-square
+[ico-github]: https://img.shields.io/github/workflow/status/{vendor:kebab}/{package_name:kebab}/run-tests.svg?style=flat-square
+[ico-codecov]: https://img.shields.io/codecov/c/gh/{vendor:kebab}/{package_name:kebab}.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/{vendor:kebab}/{package_name:kebab}.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/{vendor:kebab}/{package_name:kebab}.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/{vendor:kebab}/{package_name:kebab}
 [link-travis]: https://travis-ci.org/{vendor:kebab}/{package_name:kebab}
-[link-scrutinizer]: https://scrutinizer-ci.com/g/{vendor:kebab}/{package_name:kebab}/code-structure
+[link-codecov]: https://codecov.io/gh/{vendor:kebab}/{package_name:kebab}
 [link-code-quality]: https://scrutinizer-ci.com/g/{vendor:kebab}/{package_name:kebab}
 [link-downloads]: https://packagist.org/packages/{vendor:kebab}/{package_name:kebab}
 [link-author]: https://github.com/{author_username}
